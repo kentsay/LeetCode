@@ -53,6 +53,8 @@
 | 290 |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [Solution](src/word-pattern.java) | O(n) | O(n) | Easy |  |
 | 319 |[Bulb Switcher  ](https://leetcode.com/problems/bulb-switcher)| [Solution](src/bulb-switcher.java) | O(n) | O(n) | Medium |  |
 | 328 |[Odd Even Linked List  ](https://leetcode.com/problems/odd-even-linked-list)| [Solution](src/odd-even-linked-list.java) | O(n) | O(n) | Medium |  |
+| 346 |[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)| [Solution](src/moving-average-from-data-stream.java) | O(n) | O(n) | Easy |  |
+| 349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)| [Solution](src/intersection-of-two-arrays.java) | O(n) | O(n) | Easy |  |
 | 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Solution](src/first-unique-character-in-a-string.java) | O(n) | O(n) | Easy |  |
 | 389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Solution](src/find-the-difference.java) | O(n) | O(n) | Easy |  |
 | 344 |[Reverse String  ](https://leetcode.com/problems/reverse-string)| [Solution](src/reverse-string.java) | O(n) | O(n) | Easy |  |
