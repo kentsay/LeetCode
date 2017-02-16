@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java-blue.svg)
 
-### Algorithms
+### Algorithms (65/482)
 |  #  |      Title     |   Solutions   | Time          | Space         | Difficulty  | Tag          |
 |-----|----------------|---------------|---------------|---------------|-------------|--------------|
 | 1 |[Two Sum](https://leetcode.com/problems/two-sum)| [Solution](src/two-sum.java) | O(n) | O(n) | Easy |  |
@@ -17,6 +17,7 @@
 | 61 |[Rotate List](https://leetcode.com/problems/rotate-list)| [Solution](src/rotate-list.java) | O(n) | O(n) | Easy |  |
 | 66 |[Plus One](https://leetcode.com/problems/plus-one)| [Solution](src/plus-one.java) | O(n) | O(n) | Easy |  |
 | 70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)| [Solution](src/climbing-stairs.java) | O(n) | O(n) | Easy |  |
+| 75 |[Sort Colors](https://leetcode.com/problems/sort-colors)| [Solution](src/sort-colors.java) | O(nlogn) | O(n) | Easy |  |
 | 83 |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)| [Solution](src/remove-duplicates-from-sorted-list.java) | O(n) | O(n) | Easy |  |
 | 92 |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)| [Solution](src/reverse-linked-list-ii.java) | O(n) | O(n) | Medium |  |
 | 98 |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)| [Solution](src/validate-binary-search-tree.java) | O(n) | O(n) | Medium |  |
