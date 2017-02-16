@@ -30,6 +30,7 @@
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)| [Solution](src/.java) | O(n) | O(n) | Easy |  |
 | 142 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)| [Solution](src/.java) | O(n) | O(n) | Medium |  |
 | 144 |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)| [Solution](src/.java) | O(n) | O(n) | Medium |  |
+| 148 |[Sort List](https://leetcode.com/problems/sort-list)| [Solution](src/sort-list.java) | O(n) | O(n) | Medium |  |
 | 151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)| [Solution](src/.java) | O(n) | O(n) | Medium |  |
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack)| [Solution](src/min-stack.java) | O(n) | O(n) | Easy |  |
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)| [Solution](src/.java) | O(n) | O(n) | Easy |  |
@@ -47,6 +48,7 @@
 | 236 |[Lowest Common Ancestor of a Binary Tree  ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)| [Solution](src/lowest-common-ancestor-of-a-binary-tree.java) | O(n) | O(n) | Medium |  |
 | 237 |[Delete Node in a Linked List  ](https://leetcode.com/problems/delete-node-in-a-linked-list)| [Solution](src/delete-node-in-a-linked-list.java) | O(n) | O(n) | Easy |  |
 | 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram)| [Solution](src/valid-anagram.java) | O(n) | O(n) | Easy |  |
+| 252 |[Meeting Rooms](https://leetcode.com/problems/meeting-rooms)| [Solution](src/meeting-rooms.java) | O(nlogn) | O(n) | Medium |  |
 | 257 |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)| [Solution](src/binary-tree-paths.java) | O(n) | O(n) | Easy |  |
 | 258 |[Add Digits](https://leetcode.com/problems/add-digits)| [Solution](src/add-digits.java) | O(n) | O(n) | Easy |  |
 | 283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes)| [Solution](src/move-zeroes.java) | O(n) | O(n) | Easy |  |
@@ -54,6 +56,7 @@
 | 319 |[Bulb Switcher  ](https://leetcode.com/problems/bulb-switcher)| [Solution](src/bulb-switcher.java) | O(n) | O(n) | Medium |  |
 | 328 |[Odd Even Linked List  ](https://leetcode.com/problems/odd-even-linked-list)| [Solution](src/odd-even-linked-list.java) | O(n) | O(n) | Medium |  |
 | 346 |[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)| [Solution](src/moving-average-from-data-stream.java) | O(n) | O(n) | Easy |  |
+| 347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)| [Solution](src/top-k-frequent-elements.java) | O(n) | O(n) | Medium |  |
 | 349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)| [Solution](src/intersection-of-two-arrays.java) | O(n) | O(n) | Easy |  |
 | 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Solution](src/first-unique-character-in-a-string.java) | O(n) | O(n) | Easy |  |
 | 389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Solution](src/find-the-difference.java) | O(n) | O(n) | Easy |  |
