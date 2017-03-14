@@ -5,6 +5,7 @@
 |-----|----------------|---------------|---------------|---------------|-------------|--------------|
 | 1 |[Two Sum](https://leetcode.com/problems/two-sum)| [Solution](src/two-sum.java) | O(n) | O(n) | Easy |  |
 | 2 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| [Solution](src/add-two-numbers.java) | O(n) | O(n) | Medium |  |
+| 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)| [Solution](src/longest-palindromic-substring.java) | O(n^2) | O(n^2) | Medium |  |
 | 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)| [Solution](src/zigzag-conversion.java) | O(n) | O(n) | Medium |  |
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)| [Solution](src/reverse-integer.java) | O(n) | O(n) | Easy |  |
 | 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)| [Solution](src/string-to-integer-atoi.java) | O(n) | O(n) | Easy |  |
@@ -27,6 +28,7 @@
 | 110 |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)| [Solution](src/balanced-binary-tree.java) | O(n) | O(n) | Easy |  |
 | 111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)| [Solution](src/minimum-depth-of-binary-tree.java) | O(n) | O(n) | Easy |  |
 | 112 |[Path Sum](https://leetcode.com/problems/path-sum)| [Solution](src/path-sum.java) | O(n) | O(n) | Easy |  |
+| 125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Solution](src/valid-palindrome.java) | O(n) | O(n) | Easy |  |
 | 136 |[Single Number](https://leetcode.com/problems/single-number)| [Solution](src/single-number.java) | O(n) | O(n) | Easy |  |
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)| [Solution](src/linked-list-cycle.java) | O(n) | O(n) | Easy |  |
 | 142 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)| [Solution](src/linked-list-cycle-ii.java) | O(n) | O(n) | Medium |  |
@@ -64,6 +66,7 @@
 | 344 |[Reverse String  ](https://leetcode.com/problems/reverse-string)| [Solution](src/reverse-string.java) | O(n) | O(n) | Easy |  |
 | 404 |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Solution](src/sum-of-left-leaves.java) | O(n) | O(n) | Easy | Tree |
 | 412 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Solution](src/fizz-buzz.java) | O(n) | O(n) | Easy | Tree |
+| 434 |[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)| [Solution](src/number-of-segments-in-a-string.java) | O(n) | O(n) | Easy | Tree |
 | 438 |[Find All Anagrams in a String  ](https://leetcode.com/problems/find-all-anagrams-in-a-string)| [Solution](src/find-all-anagrams-in-a-string.java) | O(n) | O(n) | Easy | Hash Table |
 | 451 |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)| [Solution](src/sort-characters-by-frequency.java) | O(n) | O(n) | Medium |  |
 | 461 |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Solution](src/hamming-distance.java) | O(n) | O(1) | Easy | Bit |
